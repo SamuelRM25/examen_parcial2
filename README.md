@@ -68,4 +68,4 @@ examen_parcial2/
 
 ## 👨‍💻 Autor
 
-Samuel Rodríguez Morales — Examen Parcial 2
+Samuel Ramírez Martínez — Examen Parcial 2
