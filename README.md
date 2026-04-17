@@ -23,7 +23,7 @@ Aplicación móvil desarrollada en **React Native con Expo** para la gestión de
 
 ```bash
 # 1. Clonar el repositorio
-git clone <URL_DEL_REPO>
+git clone <https://github.com/SamuelRM25/examen_parcial2.git>
 cd examen_parcial2
 
 # 2. Instalar dependencias
